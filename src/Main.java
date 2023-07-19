@@ -5,6 +5,8 @@ import java.util.Map;
 public class Main {
     public static void main(String[] args) {
 
+        //　正常に動いているか確認
+
         int count = 5;
         Map<String, String> map = FruitsMap.getFruitsMap();
 
