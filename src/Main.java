@@ -23,7 +23,7 @@ public class Main {
         System.out.println(userMap.get("田中"));
         System.out.println(userMap.get("鈴木"));
         System.out.println(userMap.get("山田"));
-
+ぎt
         String name = null;
         System.out.println("nameの文字列長を表示");
         System.out.println(name.length());
